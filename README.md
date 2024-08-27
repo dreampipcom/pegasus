@@ -1,4 +1,4 @@
-# Pegasus - DreamPip's Video Livestream Platform
+# Pegasus - DreamPip's Video Transcoding Platform
 
 What: ffmpeg, srt, rtmp, nginx.
 
